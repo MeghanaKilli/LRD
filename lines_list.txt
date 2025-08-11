@@ -1,0 +1,74 @@
+wavelength(A)	line	label	show
+#1033.82	OVI	O\,{\sc vi}	0
+1215.4	Lya	Ly$\alpha$	1
+#1238.82	NVw1238	N\,{\sc v}	0
+#1260.42	SiIIw1260	Si\,{\sc ii}	0
+#1264.73	SiIIw1264	Si\,{\sc ii}	0
+1280	Xw1280	X	0
+#1302.17	OIw1302	O\,{\sc i}	0
+#1305.53	OIw1305	O\,{\sc i}	0
+1335.31	CIIw1335	C\,{\sc ii}	0
+#1340	Xw1340	X	0
+1397.61	SiIV	Si\,{\sc iv}	0
+1402.25	OIVw1402	O\,{\sc iv}]	0
+#1470	Xw1480	X 	0
+#1487	NIVw1487	N\,{\sc iv}]	0
+1549.48	CIVw1549	C\,{\sc iv}	0
+#1561	CIw1561
+1640.4	HeIIw1640	He\,{\sc ii}	1
+#1657	CIw1657
+1665.85	OIIIw1663	O\,{\sc iii}]	0
+#1750	NIIIw1750	N\,{\sc iii}]	0
+#1857.4	AlIII	Al\,{\sc iii}	0
+#1906.683	CIIIw1906	C\,{\sc iii}]	1
+#1908.734	CIIIw1908	C\,{\sc iii}]	0
+1907.71	CIIIw1907	C\,{\sc iii}]	1
+#1931	CIw1931	C\,{\sc i} 	0
+#2300	Yw2300	Y 	0
+#2326.0	CIIw2326	C\,{\sc ii}]	0
+#2439.5	NeIV	Ne\,{\sc iv}	0
+2799.117	MgII	Mg\,{\sc ii}]	1
+#3050	Yw3050	Y	0
+#3343.5	NeVw3346	[Ne\,{\sc v}]	0
+#3426.85	NeVw3426	[Ne\,{\sc v}]	0
+#3727.092	OIIw3727	[O\,{\sc ii}]	1
+#3729.875	OIIw3729	[O\,{\sc ii}]	0
+3728.5	OIIw3728	[O\,{\sc ii}]	1
+3869.87	NeIIIw3869	[Ne\,{\sc iii}]	0
+3889.75	HeIw3889	He\,{\sc i}	0
+3968.59	NeIIIw3968	[Ne\,{\sc iii}]	0
+#4069.75	SIIw4070	[S\,{\sc ii}]	0
+#4077.5	SIIw4078	[S\,{\sc ii}]	0
+4102.936	Hd	H$\delta$	1
+4341.731	Hg	H$\gamma$	1
+4364.436	OIIIw4363	[O\,{\sc iii}]	0
+#4472.7	HeIw4472	He\,{\sc i}	0
+#4687.85	HeIIw4687	He\,{\sc ii}	0
+4862.738	Hb	H$\beta$	1
+4960.295	OIIIw4959	[O\,{\sc iii}]	0
+5008.239	OIIIw5007	[O\,{\sc iii}]	1
+#5199.4	NIw5199	[N\,{\sc i}]	0
+#5201.76	NIw5206	[N\,{\sc i}]	0
+#5412.5	HeIIw5412	He\,{\sc ii}	0
+#5578.89	OIw5578	O\,{\sc i}	0
+5877.249	HeIw5877	He\,{\sc i}	1
+#6302.046	OIw6302	O\,{\sc i}	0
+#6365.535	OIw6365	O\,{\sc i}	0
+6549.86	NIIw6549	[N\,{\sc ii}]	0
+6564.697	Ha	H$\alpha$	1
+6585.27	NIIw6585	[N\,{\sc ii}]	0
+6678.1	HeIw6678	He\,{\sc i}	0
+6718.29	SIIw6717	[S\,{\sc ii}]	0
+6732.67	SIIw6731	[S\,{\sc ii}]	0
+7067.1	HeIw7065	He\,{\sc i}	1
+#7137.77	ArIIIw7138	[Ar\,{\sc iii}]	0
+#7322.01	OIIw7325	[O\,{\sc ii}]	0
+#7332.0	OIIw7332	[O\,{\sc ii}]	0
+8446.7	HeIw8446	He\,{\sc i}	1
+#8448.68	OIw8448	O\,{\sc i}	0
+9071.1	SIIIw9068	[S\,{\sc iii}]	0
+#9220	Xw9220	X	0
+#9127	FeIIw9127	Fe\,{\sc ii}	1
+#9202	FeIIw9202	Fe\,{\sc ii}	1
+9230	HIw9230	H\,{\sc i}	1
+9533.2	SIIIw9531	[S\,{\sc iii}]	1
